@@ -36,3 +36,5 @@ INSERT INTO production.categories VALUES ('mota de velha');
 SELECT * FROM production.categories WHERE category_name = 'mota de velha';
 
 
+
+
